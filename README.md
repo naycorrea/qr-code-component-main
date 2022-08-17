@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 - Desktop
-  ![](./Screenshoots/desktop.png) ![](./Screenshoots/mobile.png)
+  ![](./Screenshoots/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-Bk3a7Crlzs)
+- Live Site URL: [Click here](https://qr-code-component-main-beta-nine.vercel.app/)
 
 ## My Process
 
@@ -51,5 +51,5 @@ In addition to exploring the possibilities that CSS provides in code development
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nayaracorrea)
-- Linkedin - [Nay Corrêa](https://www.linkedin.com/in/nayaracorreaflorentino/)
+- Frontend Mentor - [@nayaracorrea](https://www.frontendmentor.io/profile/nayaracorrea)
+- Linkedin - [Nayara Corrêa](https://www.linkedin.com/in/nayaracorreaflorentino/)
